@@ -1,5 +1,0 @@
-markdown: kramdown
-remote_theme: pmarsceill/just-the-docs
-plugins:
-  - jekyll-remote-theme
-  - jekyll-feed
